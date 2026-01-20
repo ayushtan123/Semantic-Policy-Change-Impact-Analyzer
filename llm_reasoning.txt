@@ -1,0 +1,66 @@
+Pair ID: 1
+Classification: NEW_FEATURE
+Reasoning: The new policy explicitly adds 'Interactions with AI at Meta and related metadata' as a category of content that is collected. This introduces a new scope of data collection related to user interactions with AI, which was not previously mentioned. This constitutes a new capability for data collection by Meta.
+
+---
+
+Pair ID: 3
+Classification: NEW_FEATURE
+Reasoning: The new version introduces an entirely new section detailing the collection of information about 'friends, followers, groups, accounts, Facebook Pages and other users and communities that you're connected to and interact with on and off Meta Products.' This significantly expands the scope of data collection beyond the previously stated 'contacts' information that users choose to upload or import. This represents a new, explicitly stated data collection capability or feature of the policy.
+
+---
+
+Pair ID: 8
+Classification: NEW_FEATURE
+Reasoning: The old policy broadly stated that Meta logs 'Apps and features you use, and how you use them'. The new policy explicitly introduces a new category of data collection related to 'Information that you or others exchange with AI at Meta'. This defines a new scope of data collection specifically for interactions with generative AI features, which was not explicitly detailed or highlighted previously. This constitutes a new rule or capability regarding data collection for a specific type of interaction.
+
+---
+
+Pair ID: 9
+Classification: NEW_FEATURE
+Reasoning: The new policy section introduces a significantly more detailed and expanded enumeration of the types of data collected from user interactions with Meta AI. While the old version briefly mentioned sharing 'messages' and 'general information' with third parties, the new version explicitly lists 'prompts that can include questions, messages, media', 'responses', 'actions that you ask AI at Meta to take', 'feedback that you give to AI at Meta', and 'Apps and features that you use, and how you use them'. This represents a new, more comprehensive disclosure of data collection practices, effectively introducing a new scope or 'feature' of data collection transparency that did not exist previously in such detail. Users are now informed about a broader range of data being collected.
+
+---
+
+Pair ID: 19
+Classification: BREAKING
+Reasoning: The new sentence explicitly states that providing an email address, phone number, or age is a mandatory prerequisite for creating an account. This introduces a new, explicit requirement for users to provide specific personal information to access the products. If users previously could create accounts without explicitly providing all of this information (or if the policy was silent on it), they are now explicitly required to do so. This constitutes a new restriction on account creation, as failure to provide this information will prevent account creation.
+
+---
+
+Pair ID: 27
+Classification: NEW_FEATURE
+Reasoning: The new version introduces several new sections and explicit disclosures regarding data processing practices. Key additions include: 1) an explanation of why information is used across devices for personalization, 2) details about manual review processes for safety, security, and integrity, and most significantly, 3) a new explicit statement that when others interact with AI at Meta, they can share information about the user, including messages and content. These are new explicit disclosures about Meta's data handling capabilities and scenarios, expanding the scope of transparency and introducing new aspects of data processing not previously detailed in this policy section.
+
+---
+
+Pair ID: 28
+Classification: NEW_FEATURE
+Reasoning: The policy has been updated to explicitly state that public content can appear in search results on 'our research tools,' in addition to the general internet. This introduces a new capability or avenue for the discoverability of public content that was not previously mentioned, expanding the scope of how public information can be accessed.
+
+---
+
+Pair ID: 31
+Classification: NEW_FEATURE
+Reasoning: The new policy section introduces a detailed breakdown and explicit definitions of various types of data related to user interactions with AI at Meta, including 'Prompts,' 'Responses,' 'Actions,' and 'Feedback.' This level of granularity regarding AI data types was not present in the old version. Additionally, it introduces a distinct section on 'Search engines' that focuses on user privacy settings to control the visibility of their profile and public content in external search results, which is a different emphasis from the old version's mention of sharing data with search engines for AI improvement. These are new articulations of data categories and user control mechanisms.
+
+---
+
+Pair ID: 32
+Classification: NON_BREAKING
+Reasoning: The new version introduces more explicit conditions for content being considered public, particularly on Instagram, and provides a formal definition for 'Integrated partner'. These changes clarify existing concepts and mechanisms (e.g., how content becomes public) without introducing new restrictions, removing permissions, or requiring users or developers to change their existing compliant behavior. While the detailed explanation of data sharing with integrated partners is removed from this specific section, the core functionality or requirements for users/developers regarding integrated partners are not altered in a breaking way by this snippet. The explicit conditions for public content help users better understand the implications of their posting choices but do not mandate a change in behavior for compliant use.
+
+---
+
+Pair ID: 56
+Classification: NON_BREAKING
+Reasoning: The policy has been updated to expand the scope of personalization from 'Meta Products' to 'Meta Company Products' and from 'across' to 'on and across' these products. This indicates that user information will be processed for personalization on a potentially wider range of products than before. This is a modification of an existing data processing activity with an expanded scope, which does not require users to change their behavior to remain compliant.
+
+---
+
+Pair ID: 111
+Classification: NEW_FEATURE
+Reasoning: The policy introduces an entirely new defined term, 'Service provider,' which outlines a new category of entities that provide services to Meta or its users. This new definition establishes a new concept within the policy framework, indicating a new capability for the policy to categorize and regulate such entities. This will likely be associated with new rules, requirements, or capabilities that did not exist previously. While the definition for 'General demographics and interests' was removed, the introduction of a new entity type is a more fundamental addition to the policy's scope, making 'NEW_FEATURE' the most appropriate classification.
+
+---
+
